@@ -1,0 +1,5 @@
+yarn init -y = criar package json
+
+yarn sequelize migration:create --name=create-users
+yarn sequelize db:migrate
+yarn sequelize db:migrate:undo = desfaz a migration
