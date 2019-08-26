@@ -1,3 +1,3 @@
 # Barbershop App
 
-application developed in the omnistack course
+Application developed in the omnistack course
